@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Basket
 {
-    class Program
+    public class Run
     {
-        static void Main(string[] args)
+        public static void StarProject()
         {
-            Run.StarProject();
+            
         }
     }
 }
